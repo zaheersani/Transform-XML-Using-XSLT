@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSLOutputBugFix", "XSLOutputBugFix\XSLOutputBugFix.csproj", "{43ED3C56-B8CD-4101-BF0B-351CC06B9390}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformXMLUsingXSL", "XSLOutputBugFix\TransformXMLUsingXSL.csproj", "{43ED3C56-B8CD-4101-BF0B-351CC06B9390}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
