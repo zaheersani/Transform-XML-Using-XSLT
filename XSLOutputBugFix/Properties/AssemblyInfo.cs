@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("XSLOutputBugFix")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("TransformXMLUsingXSL")]
+[assembly: AssemblyDescription("CommandLine Tool which uses XSLT to transform XML documents into other formats (like transforming XML into HTML, CSV, Text etc).")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("XSLOutputBugFix")]
+[assembly: AssemblyCompany("ProSanct")]
+[assembly: AssemblyProduct("TransformXMLUsingXSL")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("ProSanct")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
