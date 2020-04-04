@@ -53,10 +53,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="SampleXML.xml">
+    <Content Include="Samples\SampleOutput.png" />
+    <Content Include="Samples\SampleXML.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="SampleXSL.xsl">
+    <Content Include="Samples\SampleXSL.xsl">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="xml.ico" />
